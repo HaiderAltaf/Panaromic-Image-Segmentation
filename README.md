@@ -3,25 +3,6 @@
 ## Overview
 Developed a deep learning model (using UNet architecture) for semantic segmentation of indoor panoramic images using PyTorch.
 
-## Repository Structure
-```
-indoor-panorama-segmentation/
-│
-├── dataset/
-│   └── train/
-│       ├── rgb/
-│       └── segmentation_color/
-│
-├── src/
-│   ├── training.py
-│   └── dataset_2.py
-│
-├── models/
-│   └── model.py
-│
-└── README.md
-```
-
 ## Key Features
 
 ### Data Processing
