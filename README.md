@@ -1,7 +1,7 @@
-# Indoor Panorama Semantic Segmentation Project
+# Indoor Panorama Semantic Segmentation 
 
-## Project Overview
-A deep learning project for semantic segmentation of indoor panoramic images using PyTorch.
+## Overview
+Developed a deep learning model (using UNet architecture) for semantic segmentation of indoor panoramic images using PyTorch.
 
 ## Repository Structure
 ```
