@@ -84,9 +84,3 @@ train_model(dataset)
 - Matplotlib
 - OpenCV
 
-## License
-MIT License
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/47987127/a61e15b9-753c-49ed-8178-715cdfb22ec3/training.py
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/47987127/18888379-f970-428d-9d50-8cff94b8fa08/dataset_2.py
