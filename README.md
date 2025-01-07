@@ -5,11 +5,6 @@ Developed a deep learning model (using UNet architecture) for semantic segmentat
 
 ## Key Features
 
-### Data Processing
-- **Dataset Location**:
-  - RGB Images: `/dataset/train/rgb/`
-  - Segmentation Masks: `/dataset/train/segmentation_color/`
-
 ### Data Augmentation
 - Image Resizing: 100x720 pixels
 - Transformations:
